@@ -23,7 +23,7 @@ This project focuses on analyzing laptop sales data from Wildberries, a major e-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/wb-laptop-sales-analysis.git
+   git clone https://github.com/g0dfury/wb-laptop-sales-analysis.git
    cd wb-laptop-sales-analysis
 
 2. Install the required dependencies:
@@ -37,9 +37,8 @@ The project is presented in a Jupyter notebook, which contains the following sec
 
 Data Preprocessing: Cleaning and handling missing values, scaling, and preparation for analysis.
 Exploratory Data Analysis (EDA): Detailed analysis of price distribution, discounts, ratings, reviews, and sales.
-K-means Clustering: Laptops are segmented into groups based on their characteristics (price, ratings, sales, etc.).
 Visualization: Various graphs and plots to visualize data insights (e.g., sales trends, price-to-performance ratios).
-Prediction Model (Future Work): Planned addition of a machine learning model to predict successful products based on current features.
+Prediction Model (Logitsitc Regression): Planned addition of a machine learning model to predict successful products based on current features.
 🔢 Data Overview
 The dataset includes the following key attributes:
 
